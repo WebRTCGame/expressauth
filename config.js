@@ -2,9 +2,9 @@
 
 module.exports = {
   db: {
-    production: "mongodb://user:pass@example.com:1234/stroeski-prod",
-    development: "mongodb://localhost/storeski-dev",
-    test: "mongodb://localhost/storeski-test",
+   production: "mongodb://george:orange1@oceanic.mongohq.com:10065/prod",
+   development: "mongodb://george:orange1@oceanic.mongohq.com:10066/dev",
+   test: "mongodb://george:orange1@oceanic.mongohq.com:10067/testing",
   },
   mailer: {
     auth: {
