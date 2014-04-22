@@ -23,5 +23,9 @@
     "mocha": "*",
     "should": ">= 0.0.1",
     "supertest": "0.3.x"
-  }
+  },
+  "repository" : { 
+   "type" : "git",
+   "url" : "http://github.com/npm/npm.git"
+ }
 }
