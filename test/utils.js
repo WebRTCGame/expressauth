@@ -1,5 +1,5 @@
 'use strict';
-
+console.log("test utils.js");
 /*
  * Modified from https://github.com/elliotf/mocha-mongoose
  */

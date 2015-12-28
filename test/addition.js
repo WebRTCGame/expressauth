@@ -6,7 +6,7 @@ var request = require('supertest');
 var should = require('should');
 var app = require('../app').app;
 
-
+/*
 describe('addition', function () {
   it('should add 1+1 correctly', function (done) {
     var onePlusOne = 1 + 1;
@@ -26,3 +26,4 @@ describe('addition', function () {
       });
   });
 });
+*/

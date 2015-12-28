@@ -1,5 +1,5 @@
 'use strict';
-
+console.log("test auth routes.js");
 // import the moongoose helper utilities
 var utils = require('../utils');
 

@@ -1,5 +1,5 @@
 'use strict';
-
+console.log("test mailer model.js");
 // import the moongoose helper utilities
 var utils = require('../utils');
 var should = require('should');

@@ -1,7 +1,6 @@
 {
   "name": "storeski",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "node_modules/.bin/supervisor app",
     "test": "node_modules/.bin/mocha -w"
